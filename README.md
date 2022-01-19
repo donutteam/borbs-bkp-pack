@@ -6,6 +6,11 @@ This is a mod for The Simpsons: Hit & Run that adds various new costumes for Hom
 ## Wait, what does BKP mean?
 That's classified.
 
+# Installation
+You can download a compiled LMLM for [Lucas' Simpsons Hit & Run Mod Launcher](https://donutteam.com/releases/view/lucas-mod-launcher) file from the [release page on our website](https://donutteam.com/releases/view/donut-mod-3).
+
+If you're unsure how to use the Mod Launcher and/or install mods for it, then you can follow [this guide](https://docs.donutteam.com/docs/lucasmodlauncher/setup) to learn how to setup the Mod Launcher and install mods.
+
 # Screenshots
 ## Homer the Burns
 
@@ -42,11 +47,6 @@ That's classified.
 *Available in Level 7 for 170 coins.*
 
 ![Homer - Bender](https://github.com/donutteam/borbs-bkp-pack/blob/main/Promotional/Screenshots/screenshot6.png)
-
-# Installation
-You can download a compiled LMLM for [Lucas' Simpsons Hit & Run Mod Launcher](https://donutteam.com/releases/view/lucas-mod-launcher) file from the [release page on our website](https://donutteam.com/releases/view/donut-mod-3).
-
-If you're unsure how to use the Mod Launcher and/or install mods for it, then you can follow [this guide](https://docs.donutteam.com/docs/lucasmodlauncher/setup) to learn how to setup the Mod Launcher and install mods.
 
 # License
 [MIT](LICENSE)
