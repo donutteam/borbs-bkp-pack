@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Multiplayer>
+	<DebugCharacter Model="h_brns" AnimationSet="homer"/>
+	<DebugCharacter Model="h_gree" AnimationSet="homer"/>
+	<DebugCharacter Model="h_sasa" AnimationSet="homer"/>
+	<DebugCharacter Model="h_bend" AnimationSet="homer"/>
+	
+	<DebugCharacter Model="m_garden" AnimationSet="marge"/>
+	<DebugCharacter Model="m_smit" AnimationSet="marge"/>
+</Multiplayer>
