@@ -32,19 +32,19 @@ If you're unsure how to use the Mod Launcher and/or install mods for it, then yo
 
 ## Marge - Gardening
 
-*Available in Level 4 for 50 coins.*
+*Available in Level 4 for 75 coins.*
 
 ![Marge - Gardening](https://github.com/donutteam/borbs-bkp-pack/blob/main/Promotional/Screenshots/screenshot4.png)
 
 ## Marge the Smithers
 
-*Available in Level 4 for 50 coins.*
+*Available in Level 4 for 75 coins.*
 
 ![Marge the Smithers](https://github.com/donutteam/borbs-bkp-pack/blob/main/Promotional/Screenshots/screenshot5.png)
 
 ## Homer - Bender
 
-*Available in Level 7 for 170 coins.*
+*Available in Level 7 for 120 coins.*
 
 ![Homer - Bender](https://github.com/donutteam/borbs-bkp-pack/blob/main/Promotional/Screenshots/screenshot6.png)
 

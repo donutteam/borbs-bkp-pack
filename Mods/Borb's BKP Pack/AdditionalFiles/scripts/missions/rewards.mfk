@@ -2,7 +2,7 @@ BindReward("h_brns", "art\chars\h_brns_m.p3d", "skin", "forsale", 1, 50, "interi
 BindReward("h_gree", "art\chars\h_gree_m.p3d", "skin", "forsale", 1, 50, "interior");
 BindReward("h_sasa", "art\chars\h_sasa_m.p3d", "skin", "forsale", 1, 50, "interior");
 
-BindReward("m_garden", "art\chars\m_gard_m.p3d", "skin", "forsale", 4, 50, "interior");
-BindReward("m_smit", "art\chars\m_smit_m.p3d", "skin", "forsale", 4, 50, "interior");
+BindReward("m_garden", "art\chars\m_gard_m.p3d", "skin", "forsale", 4, 75, "interior");
+BindReward("m_smit", "art\chars\m_smit_m.p3d", "skin", "forsale", 4, 75, "interior");
 
-BindReward("h_bend", "art\chars\h_bend_m.p3d", "skin", "forsale", 7, 170, "interior");
+BindReward("h_bend", "art\chars\h_bend_m.p3d", "skin", "forsale", 7, 120, "interior");
